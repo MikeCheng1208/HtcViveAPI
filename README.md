@@ -246,4 +246,4 @@ public class HtcViveAPI : MonoBehaviour {
     }
 }
 ```
-把手上面的控制應該都寫上去了
+VIVE把手上面的控制應該都寫上去了
