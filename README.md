@@ -1,7 +1,6 @@
 # HtcVive手把API使用
 ----
 
-----
 以下是api的code
 ```c#
 using UnityEngine;
