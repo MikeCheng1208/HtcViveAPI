@@ -1,12 +1,11 @@
 # HtcVive手把API使用
-----
 
-以下是api的code
+以下是將SteamVR的SDK載入後引用api所寫的控制
 ```c#
 using UnityEngine;
 using System.Collections;
 //偵測手把功能的腳本 這個腳本掛到手把上（controler（right）和controler（left））上  
-public class ButtonTouchAction : MonoBehaviour {
+public class HtcViveAPI : MonoBehaviour {
     //手把  
     SteamVR_TrackedObject trackdeObjec;
 
